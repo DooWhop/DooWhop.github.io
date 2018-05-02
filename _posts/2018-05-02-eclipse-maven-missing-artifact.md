@@ -9,14 +9,12 @@ author: DooWhop
 * content
 {:toc}
 
-eclipse通过svn或者git引入工程, 莫名报missing artifact / can not be resolved等错误, 查看Maven Dependencies这些报错的包都存在.
-
-
-
-
 ## 问题描述
 
  最近切换maven仓库还有eclipse, 通过svn或者git引入工程, 莫名报missing artifact / can not be resolved等错误, 查看Maven Dependencies这些报错的包都存在.
+
+
+
 
 
 ## 解决方法
@@ -30,7 +28,7 @@ eclipse通过svn或者git引入工程, 莫名报missing artifact / can not be re
 
 - [eclipse导入maven工程missing artifact（实际是存在的）错误解决](https://www.cnblogs.com/zxy500/p/5836044.html)
 
-如果以上方法仍没解决,请参考:
+	如果以上方法仍没解决,请参考:
 
 - [Maven2: Missing artifact but jars are in place](https://stackoverflow.com/questions/6111408/maven2-missing-artifact-but-jars-are-in-place)
 
