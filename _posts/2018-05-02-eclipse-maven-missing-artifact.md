@@ -9,7 +9,6 @@ author: DooWhop
 * content
 {:toc}
 
-
  最近切换maven仓库还有eclipse, 通过svn或者git引入工程, 莫名报missing artifact / can not be resolved等错误, 查看Maven Dependencies这些报错的包都存在,最后解决方法如下:
 
 
