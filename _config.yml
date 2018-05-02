@@ -7,7 +7,7 @@
 
 # Site settings
 title: DooWhop的技术专栏
-brief-intro: I AM NO ONE!
+brief-intro: You Know Nothing...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://DooWhop.github.io" # the base hostname & protocol for your site
 
@@ -18,7 +18,7 @@ twitter_username: #
 facebook_username: Lew Eric
 github_username: DooWhop
 email: liudingpo@qq.com
-weibo_username: 孙悟空
+weibo_username: test
 zhihu_username: #
 linkedIn_username: #
 dribbble_username: #
