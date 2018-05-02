@@ -9,14 +9,17 @@ author: DooWhop
 * content
 {:toc}
 
- 最近切换maven仓库还有eclipse, 通过svn或者git引入工程, 莫名报missing artifact / can not be resolved等错误, 查看Maven Dependencies这些报错的包都存在,最后解决方法如下:
+## 问题描述
+
+ 最近切换maven仓库还有eclipse, 通过svn或者git引入工程, 莫名报missing artifact / can not be resolved等错误, 查看Maven Dependencies这些报错的包都存在.
 
 
-
+## 解决方法
 
 > 找到出错的jar包文件位置或者在仓库文件夹下检索所有包，删掉_maven.repositories和_remote.repositories文件，然后update project。
 
-[参考]
+
+## 参考
 
 -[关于maven仓库中的_remote.repositories](https://my.oschina.net/yibuliushen/blog/1550292)
 
